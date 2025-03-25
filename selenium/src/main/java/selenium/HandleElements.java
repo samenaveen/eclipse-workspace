@@ -30,7 +30,7 @@ public static void main(String[] args) throws Exception {
 		}
 		else {
 			System.err.println("username Textbox is not displayed");
-		}}}
+			driver.close();		}}}
 
 	
 			
