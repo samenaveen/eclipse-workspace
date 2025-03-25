@@ -3,7 +3,7 @@ package javapractice;
 public class PalindromeNumber {
 
 public static void main (String[]args) {
-	int num=1231;
+	int num=123;
 	int i=num;
 	int rev=0;
 while(i!=0){
