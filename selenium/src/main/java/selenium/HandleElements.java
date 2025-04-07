@@ -19,7 +19,7 @@ public static void main(String[] args) throws Exception {
 		if (UsernameTxt.isDisplayed()){
 		if (UsernameTxt.isEnabled()) {
 			UsernameTxt.sendKeys("nnaveen");
-			String enteredText=UsernameTxt.getAttribute("value");
+			String enteredText=UsernameTxt.getDomProperty("value");
 			System.out.println(enteredText);
 			Thread.sleep(3000);
 			UsernameTxt.clear();

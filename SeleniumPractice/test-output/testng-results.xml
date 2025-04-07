@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-07T15:40:38 IST" name="Default suite" finished-at="2025-04-07T15:40:38 IST" duration-ms="146">
+    <groups>
+    </groups>
+    <test started-at="2025-04-07T15:40:38 IST" name="Default test" finished-at="2025-04-07T15:40:38 IST" duration-ms="146">
+      <class name="com.SeleniumPractice.AppTest">
+        <test-method signature="loginMethod1()[pri:0, instance:com.SeleniumPractice.AppTest@15eb5ee5]" started-at="2025-04-07T15:40:38 IST" name="loginMethod1" finished-at="2025-04-07T15:40:38 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod1 -->
+        <test-method signature="loginMethod2()[pri:0, instance:com.SeleniumPractice.AppTest@15eb5ee5]" started-at="2025-04-07T15:40:38 IST" name="loginMethod2" finished-at="2025-04-07T15:40:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod2 -->
+        <test-method signature="loginMethod3()[pri:0, instance:com.SeleniumPractice.AppTest@15eb5ee5]" started-at="2025-04-07T15:40:38 IST" name="loginMethod3" finished-at="2025-04-07T15:40:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod3 -->
+        <test-method signature="loginMethod4()[pri:0, instance:com.SeleniumPractice.AppTest@15eb5ee5]" started-at="2025-04-07T15:40:38 IST" name="loginMethod4" finished-at="2025-04-07T15:40:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod4 -->
+        <test-method signature="loginMethod5()[pri:0, instance:com.SeleniumPractice.AppTest@15eb5ee5]" started-at="2025-04-07T15:40:38 IST" name="loginMethod5" finished-at="2025-04-07T15:40:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod5 -->
+      </class> <!-- com.SeleniumPractice.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
